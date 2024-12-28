@@ -1,0 +1,15 @@
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\bin\Debug\net8.0\Restaurand.exe
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\bin\Debug\net8.0\Restaurand.deps.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\bin\Debug\net8.0\Restaurand.runtimeconfig.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\bin\Debug\net8.0\Restaurand.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\bin\Debug\net8.0\Restaurand.pdb
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.sourcelink.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\refint\Restaurand.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.pdb
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\Restaurand.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Restaurand\obj\Debug\net8.0\ref\Restaurand.dll
